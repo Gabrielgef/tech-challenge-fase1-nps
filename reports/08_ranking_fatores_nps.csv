@@ -1,0 +1,7 @@
+fator,variavel,correlacao_com_nps,interpretacao,forca_abs
+Atraso na entrega,delivery_delay_days,-0.597259942516411,Correlação negativa forte,0.597259942516411
+Recompra em 30 dias,repeat_purchase_30d,0.5703242098901881,Correlação positiva forte,0.5703242098901881
+CSAT interno,csat_internal_score,0.563952261879089,Correlação positiva forte,0.563952261879089
+Reclamações,complaints_count,-0.49679973420162343,Correlação negativa moderada,0.49679973420162343
+Contatos com atendimento,customer_service_contacts,-0.35084495603926846,Correlação negativa moderada,0.35084495603926846
+Tempo de resolução,resolution_time_days,-0.19139177304054505,Correlação negativa fraca,0.19139177304054505
