@@ -59,6 +59,9 @@ O projeto foi desenvolvido seguindo as etapas clássicas de Ciência de Dados, c
 └──  setup.cfg          <- Configuração de arquivo para o flake8
 
 ```
+## Videos explicativo da análise exploratória e modelo preditivo
+
+https://youtu.be/h7PDhohgeQs
 
 --------
 
