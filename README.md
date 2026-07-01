@@ -71,7 +71,7 @@ Para garantir a reprodutibilidade sem conflitos de dependências, o projeto util
 
 1. **Clone o repositório**
     ```bash
-    git clone https://github.com/SEU-USUARIO/tech-challenge-fase1-nps.git
+    git clone https://github.com/Gabrielgef/tech-challenge-fase1-nps.git
     cd tech-challenge-fase1-nps
     ```
 
