@@ -61,7 +61,7 @@ O projeto foi desenvolvido seguindo as etapas clássicas de Ciência de Dados, c
 ```
 ## Videos explicativo da análise exploratória e modelo preditivo
 
-https://youtu.be/h7PDhohgeQs
+https://youtu.be/ujmcTcr-z-E
 
 --------
 
